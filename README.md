@@ -1,4 +1,4 @@
-# web-chat-ollama
+# webpage-chat-ollama
 
 A web-based question-answering application built with Streamlit, LangChain, and Ollama. This project enables anyone to provide a webpage URL, crawl its contents, and interactively query the text with natural language questions. For further experimentation, you can choose between the Llama 3.3 and DeepSeek r1 models.
 

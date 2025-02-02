@@ -26,11 +26,11 @@ The default model used is deepseek-r1:14b since it balances good results with re
 
 1. Clone this repository:
 
-	`git clone https://github.com/jkanalakis/web-chat-ollama.git`
+	`git clone https://github.com/jkanalakis/webpage-chat-ollama.git`
 
 2. Navigate to the project directory:
 
-	`cd web-chat-ollama`
+	`cd webpage-chat-ollama`
 
 3. Install Python dependencies (example shown with pip):
 
